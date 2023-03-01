@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tdaell69bl5",
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "title": "Arroz",
+    "description": "Este es el primer producto prueba",
+    "price": 200,
+    "code": 12,
+    "stock": 25,
+    "category": "lala"
+  },
+  {
+    "id": "qchfbdcllrs",
+    "status": true,
+    "thumbnail": "Sin imagen",
+    "title": "Fideos",
+    "description": "Este es el primer producto prueba",
+    "price": 200,
+    "code": 123,
+    "stock": 25,
+    "category": "lala"
+  }
+]
